@@ -1,20 +1,36 @@
 # Hi, I'm Puranjay
 
-I'm a software engineer at **Schalkware**, building C#/.NET products for tabletop campaigns and wildlife management. I work across APIs, relational data, authentication and cross-platform workflows.
+I like building with small teams, especially early on when we're still figuring out what the product should be. My work has moved between EEG research, machine learning and product engineering.
 
-Previously, I worked on credit-risk and synthetic-data pipelines at DMI Finance, and backend and LLM services at Petavue. I also worked on EEG research published at IEEE BIBE in 2023.
+I'm based in Boston and currently work at **Schalkware**.
 
-## Selected projects
+[Visit my portfolio](https://portfolio.puranjay-mishra.workers.dev) &nbsp; · &nbsp; [Say hello](mailto:puranjaymishra0@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/puranjay-mishra)
 
-Here are four projects that reflect those interests. Each repository is a short overview of the work, with a link to its portfolio page. The application code is private.
+---
 
-| Project | What it covers |
-| --- | --- |
-| [Promptline](https://github.com/Puranjay-del-Mishra/promptline-showcase) | Configuration proposals, validation and execution tracking |
-| [ShelfLife](https://github.com/Puranjay-del-Mishra/shelflife-showcase) | Grocery inventory built around photos and freshness timelines |
-| [UnCypher](https://github.com/Puranjay-del-Mishra/uncypher-showcase) | Information discovery through clustering and vector retrieval |
-| [EEG research](https://github.com/Puranjay-del-Mishra/eeg-research-showcase) | Colour prediction using wavelet representations and a Vision Transformer |
+<details>
+<summary><strong>What I'm building these days</strong></summary>
 
-M.S. Computer Science (AI/ML), University at Buffalo. AWS Solutions Architect Associate, issued July 2025.
+At Schalkware, I'm working on a TTRPG campaign system and a wildlife management app. The work moves between C#/.NET APIs, data models, authentication and cross-platform workflows. The wildlife app brings together photos, maps, weather and field tracking.
 
-[Portfolio](https://portfolio.puranjay-mishra.workers.dev) · [LinkedIn](https://www.linkedin.com/in/puranjay-mishra) · [Email](mailto:puranjaymishra0@gmail.com)
+[More about my current work](https://portfolio.puranjay-mishra.workers.dev/#background)
+
+</details>
+
+<details>
+<summary><strong>How I got here</strong></summary>
+
+I started in electronics at NIT Jamshedpur and worked on EEG research with the Technical University of Crete and MVIL. From there, I worked on backend and LLM services at Petavue, followed by credit-risk and synthetic-data pipelines at DMI Finance. I later completed my M.S. in Computer Science at the University at Buffalo.
+
+My EEG work led to a paper at IEEE BIBE in 2023. [The research overview](https://github.com/Puranjay-del-Mishra/eeg-research-showcase) explains the method.
+
+</details>
+
+<details>
+<summary><strong>Explore a project</strong></summary>
+
+For backend work, start with [Promptline](https://github.com/Puranjay-del-Mishra/promptline-showcase). For a grocery app built around photos, take a look at [ShelfLife](https://github.com/Puranjay-del-Mishra/shelflife-showcase). [UnCypher](https://github.com/Puranjay-del-Mishra/uncypher-showcase) explores information discovery through clustering and retrieval.
+
+These are project overviews; the application code is private. All four, including the EEG research, are pinned below.
+
+</details>
